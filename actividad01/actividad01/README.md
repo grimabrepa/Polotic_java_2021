@@ -6,7 +6,7 @@ _Desarrollo Web FullStack Java_
 ## Comenzando 🚀
 ---
 
-_En este repositorio encontraras las resoluciones de las actividades propuestas en la cursada Edicion Marrzo 2021_
+_En este repositorio encontraras las resoluciones de las actividades propuestas en la cursada Edicion Marzo 2021_
 
 <h2 align="center"> Actividad 01</h2>
 <p align="center"> Tipos de datos, Variables y Operaciones</p>
@@ -52,7 +52,7 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 ## Expresiones de Gratitud 🎁
 ---
 
-* Buscamos motrar diferentes propuesta de resoluciones a las actividades de la cursada 📢
+* Buscamos mostrar diferentes propuesta de resoluciones a las actividades de la cursada 📢
 * Invitanos  con una cerveza 🍺 o un café ☕ a alguien del equipo. 
 * Agradecemos sugerencias en nuestro canal de Discord 🤓.
 
