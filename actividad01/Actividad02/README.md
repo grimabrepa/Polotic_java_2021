@@ -8,8 +8,8 @@ _Desarrollo Web FullStack Java_
 
 _En este repositorio encontraras las resoluciones de las actividades propuestas en la cursada Edicion Marzo 2021_
 
-<h2 align="center"> Actividad 01</h2>
-<p align="center"> Tipos de datos, Variables y Operaciones</p>
+<h2 align="center"> Actividad 02</h2>
+<p align="center"> Condicinales</p>
 <p align="center"><img src="https://i.ibb.co/Vgbd8Fj/cabecera-actividad.jpg"/></p> 
 <h1>Ejercicio Nº2 : Condicionales</h1>
 		<p>Resolver los siguientes ejercicios con estructuras selectivas. Intentar ejecutarlos y probarlos con datos de prueba.</p>
