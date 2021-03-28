@@ -1,10 +1,12 @@
 # Guia de Ejercicios
+---
 
 _Desarrollo Web FullStack Java_
 
 ## Comenzando 🚀
+---
 
-_En este repositorio encontraras las resoluciones de las actividades propuestas en la cursada Edicion Marrzo 2021
+_En este repositorio encontraras las resoluciones de las actividades propuestas en la cursada Edicion Marrzo 2021_
 
 <h1 align="center"> Guia de Ejercicios</h1>
 <p align="center"> Actividades Basicas</p>
@@ -18,6 +20,7 @@ _En este repositorio encontraras las resoluciones de las actividades propuestas 
 
 
 ## Construido con 🛠️
+---
 _Las herramientas utilizadas son_
 
 * [Java SE 8](https://www.oracle.com/ar/java/technologies/javase/javase-jdk8-downloads.html) - Java SE Development Kit 8
@@ -26,15 +29,19 @@ _Las herramientas utilizadas son_
 
 
 ## Autores ✒️
+---
+_Nuestro gran equipo_
 * **Lito ** - *Trabajo Inicial* 
 * **Marcelo ** - *Trabajo Inicial*
 * **Tania ** - *Trabajo Inicial*
 
 ## Licencia 📄
+---
 
 Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
 ## Expresiones de Gratitud 🎁
+---
 
 * Buscamos motrar diferentes propuesta de resoluciones a las actividades de la cursada 📢
 * Invitanos  con una cerveza 🍺 o un café ☕ a alguien del equipo. 
