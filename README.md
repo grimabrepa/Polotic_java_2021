@@ -6,12 +6,18 @@ _Desarrollo Web FullStack Java_
 
 _En este repositorio encontraras las resoluciones de las actividades propuestas en la cursada Edicion Marrzo 2021
 
-<h1 align="center"> Nombre de la herramienta</h1>
-<p align="center"> Logo e imagen o gif de la interfaz principal de la herramienta</p>
+<h1 align="center"> Guia de Ejercicios</h1>
+<p align="center"> Actividades Basicas</p>
 <p align="center"><img src="https://i.ibb.co/H7ttFD0/logo-polotic.jpg"/></p> 
 
-## Construido con 🛠️
+## Tabla de contenidos:
+---
 
+- [Actividad 01](https://github.com/grimabrepa/Polotic_java_2021/tree/master/actividad01/actividad01)
+- [Actividad 02](https://github.com/grimabrepa/Polotic_java_2021/tree/master/actividad01/Actividad02)
+
+
+## Construido con 🛠️
 _Las herramientas utilizadas son_
 
 * [Java SE 8](https://www.oracle.com/ar/java/technologies/javase/javase-jdk8-downloads.html) - Java SE Development Kit 8
@@ -30,10 +36,10 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 
 ## Expresiones de Gratitud 🎁
 
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* etc.
+* Buscamos motrar diferentes propuesta de resoluciones a las actividades de la cursada 📢
+* Invitanos  con una cerveza 🍺 o un café ☕ a alguien del equipo. 
+* Agradecemos sugerencias en nuestro canal de Discord 🤓.
+
 
 
 
