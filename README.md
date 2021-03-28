@@ -8,7 +8,7 @@ _En este repositorio encontraras las resoluciones de las actividades propuestas 
 
 <h1 align="center"> Nombre de la herramienta</h1>
 <p align="center"> Logo e imagen o gif de la interfaz principal de la herramienta</p>
-<p align="center"><img src="https://ibb.co/qBNNyMz"/></p> 
+<p align="center"><img src="https://i.ibb.co/H7ttFD0/logo-polotic.jpg"/></p> 
 
 ## Construido con 🛠️
 
