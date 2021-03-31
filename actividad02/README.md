@@ -31,6 +31,7 @@ _En este repositorio encontraras las resoluciones de las actividades propuestas 
 		</ul>
 
 <h2>Ejercicios Integradores</h2>
+<ul>
 <p>Resolver los siguientes ejercicios. Intentar ejecutarlos y probarlos con datos de prueba.</p>
 		<ul>
 			
